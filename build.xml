@@ -1,0 +1,5 @@
+<project name="docker-ubuntu" default="build">
+    <target name="build">
+        <echo message="Building Docker Image" />
+    </target>
+</project>
